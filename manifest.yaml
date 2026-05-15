@@ -1,0 +1,35 @@
+# Medicine Sub-Leviathan — Federation Membership Manifest
+# Aligned with leviathan-protocol/meta/templates/instance-manifest-template.yaml
+
+instance_name: medicine
+domain: medical-ai-governance
+description: |
+  Constitutional governance pattern for AI in medical practice.
+  Defines physician-irreducible clinical authority, patient data sovereignty,
+  algorithmic fairness obligations, and the audit + accountability chains
+  required when AI participates in care. Open seat — awaits first domain author.
+
+# Inheritance (per leviathan-protocol/meta kernel)
+inherits_from: leviathan-kernel@v0.1
+forked_from: null
+parent_constitution: leviathan-protocol/meta/
+
+# Lifecycle
+created: 2026-05-15
+last_updated: 2026-05-15
+status: drafting
+maturity_phase: pre-genesis  # 2 seed principles + 0 ratified elements; awaits first domain author
+
+# Domain authors (open)
+domain_authors_status: open
+domain_authors: []
+
+# Implementations binding to this Sub-Leviathan (none yet)
+implementations: []
+
+# Forum surface
+forum_board_id: medicine
+forum_url: https://leviathan.life/forum/medicine
+
+# File format
+format_spec: https://github.com/leviathan-protocol/meta/blob/main/docs/element-format.md
